@@ -1,0 +1,21 @@
+{
+    "name": "jugid/tarray",
+    "description": "Typed array for php",
+    "type": "library",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jugid\\Tarray\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jugid",
+            "email": "gidjulien@gmail.com"
+        }
+    ]
+}
