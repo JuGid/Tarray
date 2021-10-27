@@ -25,3 +25,7 @@ public function removeAt(int $index) : bool;
 public function set(int $index, mixed $element) : bool;
 public function toArray() : array;
 ```
+
+# Licence
+
+I don't care, do whatever you want
